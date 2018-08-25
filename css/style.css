@@ -1,0 +1,52 @@
+body {
+	background-color: black;
+	font-family: Trebuchet MS;
+	color: #ffffdd;
+	font-size: 18px;
+}
+
+#canvasDiv {
+   width: 100%;
+   text-align: center;
+}
+
+p {
+	text-align: center;
+	font-size: 22px;
+}
+
+#fill {
+   width: 100%;
+   margin: auto;
+   padding: auto;
+}
+
+#left {
+	padding: 5%;
+	width: 40%;
+	float: left;
+	
+	display: block;
+	border: solid 2px pink;
+	border-radius: 10px;
+	padding: 4%;
+}
+
+#right {
+	padding: 5%;
+	width: 40%;
+	float: right;
+	
+	display: block;
+	border: solid 2px pink;
+	border-radius: 10px;
+	padding: 4%;
+}
+
+#submit {
+	padding: 4%;
+	width: 40%;
+	float: center;
+	text-align: center;
+	margin: 1%;
+}
