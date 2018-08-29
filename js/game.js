@@ -1,3 +1,4 @@
+// game.js
 //on load le canvas
 const canvas = document.getElementById('hues');
 const context = canvas.getContext('2d');
